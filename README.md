@@ -1,6 +1,7 @@
 # Who’s In Town - Setup Instructions
 
-Welcome to **Who’s In Town**! This project allows you to search for artists, view their events, and manage a favorites list. Follow these steps to get the project up and running on your local machine.
+Welcome to **Who’s In Town**! This project allows you to search for artists, view their events, and manage a favourites list. Follow these steps to get the project up and running on your local machine.
+
 <img width="1143" height="684" alt="image" src="https://github.com/user-attachments/assets/bc905780-7c8e-4d3d-9a36-400bf60c72c8" />
 
 ---
@@ -34,7 +35,7 @@ Welcome to **Who’s In Town**! This project allows you to search for artists, v
 
 - **Search for Artist** Enter an artist’s name to view their metadata and upcoming events.
 - **Event Details** Click on an event to see venue information and special offers.
-- **Favorites List** Add or remove events from your favorites list. The list persists even after refreshing the page.
+- **Favourites List** Add or remove events from your favourites list. The list persists even after refreshing the page.
 
 ## API Used
 
@@ -42,6 +43,6 @@ Welcome to **Who’s In Town**! This project allows you to search for artists, v
 
 ## BONUS
 
-- **Persistent Favorites** Your favorites list is saved in localStorage, so it remains even after refreshing the page.
+- **Persistent Favourites** Your favourites list is saved in localStorage, so it remains even after refreshing the page.
 
 **Enjoy exploring Who’s In Town! 🎉**
