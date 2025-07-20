@@ -1,6 +1,7 @@
 # Who’s In Town - Setup Instructions
 
 Welcome to **Who’s In Town**! This project allows you to search for artists, view their events, and manage a favorites list. Follow these steps to get the project up and running on your local machine.
+<img width="1143" height="684" alt="image" src="https://github.com/user-attachments/assets/bc905780-7c8e-4d3d-9a36-400bf60c72c8" />
 
 ---
 
