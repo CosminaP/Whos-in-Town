@@ -1,12 +1,46 @@
-# React + Vite
+# Who’s In Town - Setup Instructions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Who’s In Town**! This project allows you to search for artists, view their events, and manage a favorites list. Follow these steps to get the project up and running on your local machine.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Prerequisites
 
-## Expanding the ESLint configuration
+- **Node.js** (v14 or higher)
+- **npm** (usually comes with Node.js)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Setup Instructions
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/CosminaP/Whos-in-Town.git
+   cd Whos-in-Town
+   ```
+2. **Install Dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the project**
+   ```bash
+   npm run dev
+   ```
+
+## Features
+
+- **Search for Artist** Enter an artist’s name to view their metadata and upcoming events.
+- **Event Details** Click on an event to see venue information and special offers.
+- **Favorites List** Add or remove events from your favorites list. The list persists even after refreshing the page.
+
+## API Used
+
+- **Artist & Event Data** API Documentation (Use app_id=123 for testing).
+
+## BONUS
+
+- **Persistent Favorites** Your favorites list is saved in localStorage, so it remains even after refreshing the page.
+
+**Enjoy exploring Who’s In Town! 🎉**
